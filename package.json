@@ -25,9 +25,9 @@
     "tape": "^4.6.3"
   },
   "dependencies": {
-    "artillery-core": "^4.6.0",
-    "async": "^1.5.2",
+    "artillery": "^1.6.0-29",
+    "async": "^3.1.0",
     "debug": "^2.6.6",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.15"
   }
 }
